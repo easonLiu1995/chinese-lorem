@@ -1,0 +1,25 @@
+{
+  "name": "chinese-lorem",
+  "version": "1.0.0",
+  "description": "chinese lorem 中文假字產生器",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easonLiu1995/chinese-lorem.git"
+  },
+  "homepage": "https://github.com/easonLiu1995/chinese-lorem",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "author": "easonliu1995",
+  "license": "MIT",
+  "files": ["lib/**/*"],
+  "scripts": {
+    "build": "rm -rf lib && tsc",
+    "dev": "nodemon test/index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
