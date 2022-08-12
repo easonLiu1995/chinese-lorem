@@ -11,6 +11,7 @@
   "types": "lib/index.d.ts",
   "author": "easonliu1995",
   "license": "MIT",
+  "keywords": ["chinese", "lorem", "lorem ipsum", "chinese lorem", "placeholder", "text", "word", "dummy", "filler", "mock"],
   "files": ["lib/**/*"],
   "scripts": {
     "build": "rm -rf lib && tsc",
