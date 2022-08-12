@@ -1,6 +1,6 @@
 {
   "name": "@easonliu1995/chinese-lorem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chinese lorem 中文假字產生器",
   "repository": {
     "type": "git",
@@ -11,8 +11,21 @@
   "types": "lib/index.d.ts",
   "author": "easonliu1995",
   "license": "MIT",
-  "keywords": ["chinese", "lorem", "lorem ipsum", "chinese lorem", "placeholder", "text", "word", "dummy", "filler", "mock"],
-  "files": ["lib/**/*"],
+  "keywords": [
+    "chinese",
+    "lorem",
+    "lorem ipsum",
+    "chinese lorem",
+    "placeholder",
+    "text",
+    "word",
+    "dummy",
+    "filler",
+    "mock"
+  ],
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "build": "rm -rf lib && tsc",
     "dev": "nodemon test/index.ts"
