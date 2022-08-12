@@ -1,6 +1,5 @@
 # Chinese Lorem 中文假字
 ## Usage
-----
 ### 1. Install
 `npm install @easonliu1995/chinese-lorem`
 ### 2. Import
@@ -22,7 +21,6 @@
 -> 劳区提故胜顺错心青。  
 -> 远呀么，万倍。
 ## Options
-----
 ```
 {
   max: number,
