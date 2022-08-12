@@ -17,24 +17,29 @@
 -> 檢。  
 `lorem({max: 15, usePunctuation: true})`  
 -> 武意産，可正願試，望另。  
--> 送員地美照。
+-> 送員地美照。  
+`lorem({max: 15, usePunctuation: true, useSimplified: true})`  
+-> 劳区提故胜顺错心青。  
+-> 远呀么，万倍。
 ## Options
 ----
 ```
 {
   max: number,
   min: number,
-  usePunctuation: boolean // default false,
   extend: string,
   exclude: string
+  usePunctuation: boolean // default false,
+  useSimplified: boolean // default false
 }
 ```
 - `max`: `required`
 - `min`: can't only have min number, or min number greater than max number.
+- `extend`: add more charactor to randomize
+- `exclude`: exclude specific character
 - `usePunctuation`: add commas and period.  
 -> commas appear when words length greater than 5  
 -> period appear when words length greater than 2, and only appear once at last character.
-- `extend`: add more charactor to randomize
-- `exclude`: exclude specific character
+- `useSimplified`: use Simplified Chinese.
   
 Any improvement suggestions can contact me, thank you!
