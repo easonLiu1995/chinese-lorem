@@ -26,9 +26,9 @@
   max: number,
   min: number,
   extend: string,
-  exclude: string
-  usePunctuation: boolean // default false,
-  useSimplified: boolean // default false
+  exclude: string,
+  usePunctuation: boolean, // default false
+  useSimplified: boolean, // default false
 }
 ```
 - `max`: `required`
