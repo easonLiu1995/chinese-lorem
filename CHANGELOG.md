@@ -18,3 +18,7 @@
 ## v1.1.0 (2022-08-12)
 ### Features
 * add tests, ci, changelog & minify size
+* 
+## v1.1.1 (2022-08-12)
+### Features
+* modify shields

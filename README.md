@@ -1,5 +1,9 @@
 # Chinese Lorem 中文假字
-[![NPM version](https://img.shields.io/npm/v/pinyin-pro.svg)](https://www.npmjs.com/package/@easonliu1995/chinese-lorem)
+[![Minified size](https://img.shields.io/bundlephobia/min/@easonliu1995/chinese-lorem)](https://www.npmjs.com/package/@easonliu1995/chinese-lorem)
+[![Repo version](https://img.shields.io/github/package-json/v/easonliu1995/chinese-lorem)](https://www.npmjs.com/package/@easonliu1995/chinese-lorem)
+[![Npm version](https://img.shields.io/npm/v/@easonliu1995/chinese-lorem)](https://www.npmjs.com/package/@easonliu1995/chinese-lorem)
+[![License](https://img.shields.io/npm/l/@easonliu1995/chinese-lorem)](https://www.npmjs.com/package/@easonliu1995/chinese-lorem)
+[![Language](https://img.shields.io/github/languages/top/easonliu1995/chinese-lorem)](https://www.npmjs.com/package/@easonliu1995/chinese-lorem)
 ## Usage
 ### 1. Install
 `npm install @easonliu1995/chinese-lorem`
